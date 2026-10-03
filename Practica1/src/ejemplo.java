@@ -8,6 +8,7 @@ public class ejemplo
 		System.out.println("holaMundo");
 		System.out.println("Version 5");
 		System.out.println("Version 8");
+		System.out.println("Version 10");
 		
 	}
 
